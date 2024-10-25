@@ -1,4 +1,4 @@
-//Adding Array
+<?php
 
 
 $Dönerbude = ["Döner", "Pommes", "Pizza","Nudeln","Cola"];
